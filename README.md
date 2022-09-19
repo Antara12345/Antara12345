@@ -1,4 +1,5 @@
-![images (1)](https://user-images.githubusercontent.com/101388860/191064019-b3aeb47d-5cb3-43fa-bbd2-86cf62b0c98d.png)
+![images](https://github.blog/wp-content/uploads/2020/12/wallpaper_header_4Kultra_wide_21_9.png)
+
 <h1 align="center">Hi 👋, I'm Antara Burman</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.shopify.com/s/files/1/0528/5065/5412/files/Girl_on_Computer.gif?v=1638959634">
