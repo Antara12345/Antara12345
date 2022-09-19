@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/antara-5aa95a209/</h3>
 <p align="left">
 </p>
 
