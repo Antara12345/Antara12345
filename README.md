@@ -1,5 +1,4 @@
-![01151_inthedeep_2560x1600](https://user-images.githubusercontent.com/101388860/195682635-cfdd4dbe-4c7c-4f24-9e80-a1e7346ba587.png)
-
+![P42s4QYsYfgNKJJa](https://user-images.githubusercontent.com/101388860/195683043-9570627c-e3f1-4f4e-badf-adc3a35c15ed.png)
 <h1 align="center">Hi 👋, I'm Antara Burman</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.shopify.com/s/files/1/0528/5065/5412/files/Girl_on_Computer.gif?v=1638959634">
