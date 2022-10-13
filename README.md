@@ -1,4 +1,4 @@
-![images](https://github.blog/wp-content/uploads/2020/12/wallpaper_header_4Kultra_wide_21_9.png)
+![images (2)](https://user-images.githubusercontent.com/101388860/195681190-d2f9d414-6248-4907-bed4-32662581853b.png)
 
 <h1 align="center">Hi 👋, I'm Antara Burman</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
