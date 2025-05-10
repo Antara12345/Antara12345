@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **antaraburman888@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/121Z-Yjr5nqjQIWY2HjZ7meyVF9l5asbC/view?usp=sharing](https://drive.google.com/file/d/121Z-Yjr5nqjQIWY2HjZ7meyVF9l5asbC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/121Z-Yjr5nqjQIWY2HjZ7meyVF9l5asbC/view?usp=sharing](https://drive.google.com/file/d/1RNYvwZ2YxOWWsRjsVQ1pdRAmMTAZ8lVP/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
